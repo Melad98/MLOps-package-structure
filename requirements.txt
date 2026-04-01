@@ -1,0 +1,4 @@
+nltk>=3.6.2
+pytest>=6.2.5
+pytest-cov>=2.12.1
+build>=0.7.0
